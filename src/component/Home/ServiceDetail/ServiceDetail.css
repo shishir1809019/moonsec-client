@@ -4,4 +4,5 @@
 .main:hover {
   transform: scale(1.1);
   box-shadow: 5px 10px 10px gray;
+  text-decoration: none;
 }

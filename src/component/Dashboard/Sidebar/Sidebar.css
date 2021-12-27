@@ -1,0 +1,10 @@
+.sidebar {
+  background: linear-gradient(black, gray);
+  height: 100vh;
+}
+.sidebar li {
+  list-style: none;
+}
+.sidebar a {
+  color: #fff;
+}

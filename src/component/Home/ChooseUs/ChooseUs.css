@@ -1,0 +1,9 @@
+.choose-area {
+  background-image: url(../../../img/chooseBg.jpg);
+  background-size: cover;
+}
+.choose-image {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
